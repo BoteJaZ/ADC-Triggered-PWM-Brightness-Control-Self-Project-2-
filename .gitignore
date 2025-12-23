@@ -1,0 +1,15 @@
+Debug/
+Release/
+*.out
+*.map
+*.obj
+.settings/
+.cproject
+.project
+.metadata/
+*.d
+*.lib
+.settings/
+.cproject
+.project
+
